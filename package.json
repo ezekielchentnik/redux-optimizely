@@ -17,9 +17,11 @@
   "keywords": [
     "redux",
     "middleware",
+    "react",
+    "redux optimizely",
+    "react optimizely",
     "redux-middleware",
-    "new relic",
-    "crash reporter",
+    "optimizely",
     "analytics"
   ],
   "author": "Ezekiel Chentnik <zeek@ezekielchentnik.com>",
