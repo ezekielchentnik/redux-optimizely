@@ -1,6 +1,6 @@
 {
 	"name": "redux-optimizely",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "Redux middleware for tracking goals and reporting to optimizely.",
 	"main": "lib/index.js",
 	"scripts": {
